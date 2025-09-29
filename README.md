@@ -28,7 +28,7 @@ we present fuzzy mapping, unsupervised multilayer feature extraction and manifol
 means for clustering in a low-dimensional embedding space is employed to reduce the dimension of the features based on the manifold representation. 
 
 ## Experimental Results:   
-The experimental results of ConvFNN are shown as follows:   
+The experimental results of UMFNN are shown as follows:   
 
 | Datasets | NMI | RI | Purity | 
 |:-------|:--------|:--------|:--------|
@@ -40,5 +40,9 @@ The experimental results of ConvFNN are shown as follows:
 |COIL100|0.8767(0.0005)|0.9916(0.0001)|0.7651(0.0003)|
 |MNIST05|0.7707(0.0125)|0.9385(0.0059)|0.8791(0.0133)|
 |FMNIST5|0.8146(0.0085)|0.9424(0.0091)|0.9228(0.0076)|
+
+The clustering accuracy is reported as mean accuracy(standard deviation).
+
+
 
 
