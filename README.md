@@ -43,6 +43,7 @@ The experimental results of UMFNN are shown as follows:
 
 The clustering accuracy is reported as mean accuracy(standard deviation).
 
-
+## How to run the code: 
+Run main.m directly.
 
 
