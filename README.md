@@ -24,7 +24,7 @@ and compared the parameter sensitivity of UMFNN and other algorithms. The propos
 ## Structure
 <img width="1221" height="560" alt="image" src="https://github.com/user-attachments/assets/14a9be75-3e70-4924-a1a4-08aea0cc31e7" />
 
-we present fuzzy mapping, unsupervised multilayer feature extraction and manifold representation, which are the three stages of the proposed UMFNN. Fuzzy images are generated in the first stage based on fuzzy membership functions. Next, features are extracted from the fuzzy images using a multilayer convolutional pooling structure with randomly generated weights. Finally, K-means for clustering in a low-dimensional embedding space is employed to reduce the dimension of the features based on the manifold representation. 
+We present fuzzy mapping, unsupervised multilayer feature extraction and manifold representation, which are the three stages of the proposed UMFNN. Fuzzy images are generated in the first stage based on fuzzy membership functions. Next, features are extracted from the fuzzy images using a multilayer convolutional pooling structure with randomly generated weights. Finally, K-means for clustering in a low-dimensional embedding space is employed to reduce the dimension of the features based on the manifold representation. 
 
 ## Experimental Results   
 The experimental results of UMFNN are shown as follows:   
